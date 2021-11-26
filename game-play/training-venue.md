@@ -1,27 +1,31 @@
-# Training Venue
+# 训练馆
 
-Have your elf participate in Training mode to prepare for adventures and gameplay. While staked to Training mode, users will earn ELFT based upon the NFT characters levels.
+## 训练馆
 
-How to Train?
+让您的小精灵参与训练模式，为冒险和游戏做好准备。当押注到训练模式时，用户将根据NFT级别赚取 ELFT。
 
-Step 1: Get a elf
+#### 如何训练？
 
-Step 2: Go to the Training Venue and select the elf to train
+第 1 步：获得小精灵
 
-Step 3: Confirm the training and stake the corresponding ELFT Start training !
+第二步：前往训练馆，选择要训练的小精灵
 
-Training Income
+第三步：确认训练并质押相应的 ELFT 开始训练！
 
-Common Heroes: Stake 300 ELFT to start training, Each training can gain 50 experience Training gains (strength \* (1 + (spirit / 100) x/π= gains ELFT) Training duration of 24 hours)
+#### 培训收入
 
-Rare Heroes: Stake 400 ELFT to start training, Each training can gain 50 experience Training gains (strength \* (1 + (spirit / 100) x/π= gains ELFT) Training duration of 24 hours)
+普通小精灵：质押300 ELFT开始训练，每次训练可以获得50经验训练增益（力量\*（1+（精神/100）x/π=获得 ELFT）训练持续时间24小时）
 
-Epic Heroes: Stake 500 ELFT to start training, Each training can gain 50 experience Training gains (strength \* (1 + (spirit / 100) x/π= gains ELFT) Training duration of 24 hours)
+稀有小精灵：质押 400 ELFT开始训练，每次训练可以获得50经验训练增益（力量\*（1+（精神/100）x/π=获得 ELFT）训练持续时间24小时）
 
-Legendary Heroes: Stake 1000 ELFT to start training, Each training can gain 50 experience Training gains (strength \* (1 + (spirit / 100) x/π= gains ELFT) Training duration of 24 hours)
+史诗小精灵：质押500 ELFT开始训练，每次训练可以获得50经验训练增益（力量\*（1+（精神/100）x/π=获得 ELFT）训练持续时间24小时）
 
-Myth Heroes: Stake 1000 ELFT to start training, Each training can gain 50 experience Training gains (strength \* (1 + (spirit / 100) x/π= gains ELFT) Training duration of 24 hours)
+神话小精灵：质押 1000 ELFT开始训练，每次训练可以获得50经验训练增益（力量\*（1+（精神/100）x/π=获得 ELFT）训练持续时间24小时）
 
-#### More gameplay
+传说小精灵：质押 1000 ELFT开始训练，每次训练可以获得 50 经验训练增益（力量 \* (1 + (精神/ 100) x/π= 获得 $ELFT) 训练持续时间 24 小时）
 
-Elf will continue to introduce new and different aspects of gameplay, coming soon...
+每24小时您需要为下一次训练收集训练收入，训练可以获得额外的内置经验。
+
+#### 更多玩法
+
+小精灵将继续为游戏玩法引入新的不同方面，即将推出...

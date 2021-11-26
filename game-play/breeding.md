@@ -1,15 +1,15 @@
-# Breeding (Trailer)
+# 繁殖（预）
 
-Almost all elf can breed, and genderless elf can lay eggs with Ditto. Only the elf of the lowest form and the elf who have not found the egg group, there are all kinds of monsters that cannot lay eggs. The elf of the lowest form can only reproduce after they have evolved. Like real-world creatures, many elf have genders, and some elf can be distinguished by gender differences. Usually, the way elf reproduce is not known or seen.
+几乎所有小精灵都可以进行繁殖，没有性别的小精灵也可以和百变怪生蛋。只有最低形态的小精灵及未发现蛋群的小精灵还有百变怪无法生蛋。最低形态的小精灵在进化之后，才可以进行繁殖。和现实世界的生物一样，许多小精灵有性别之分，有些小精灵可以通过性别差异分辨。通常，小精灵繁殖的方式并不为人所知，也不为人所见。
 
-#### Elf egg
+#### 精灵蛋
 
-The elf lives in the elf egg before it is born, and the elf egg has a hard shell to protect its growth. Just like animals in the real world, elf will do their best to protect their elf and keep them close to them. After growing to a certain level, the elf will hatch from the egg. The time it takes for the elf to hatch varies depending on the type of elf, but if the elf egg is stored in the computer, the growth of the egg will be suspended.
+小精灵在出生之前生活在精灵蛋里，精灵蛋有坚硬的外壳保护它的成长。和现实世界的动物一样，小精灵会竭力保护它们的精灵蛋，把精灵蛋守护在离它们很近的地方。在成长到一定程度后，小精灵就会从蛋中孵化出来。小精灵孵化所需要的时间依小精灵的种类而有所不同，但若把精灵蛋存放在电脑里，蛋的成长就会暂停。
 
-#### Inheritance
+#### 遗传
 
-The hatched elf may inherit the form, moves, individual value, personality and characteristics of their parents.
+孵化出来的小精灵会有可能遗传亲代的形态、招式、个体值、性格和特性。
 
-#### More gameplay
+#### 更多玩法
 
-Elf will continue to introduce new and different aspects of gameplay, coming soon...
+小精灵将继续为游戏玩法引入新的不同方面，即将推出...

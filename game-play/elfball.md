@@ -1,15 +1,15 @@
-# Elfball
+# 精灵球
 
-Elfball is a collection of elf game items, and the process has random properties. Depending on the nature of the game, you will get elf with different rarity levels.
+精灵球是收集小精灵的游戏道具，该过程具有随机属性。根据游戏属性的不同，您将获得不同稀有程度的小精灵。
 
-#### Regular elfball
+#### 普通精灵球
 
-There are 8000 BNB elfball, each one costs 0.2 BNB and has a 20 elfball maximum per purchase. The elf in the ball have the following rarities:
+普通精灵球有8000个，每一个花费0.2个BNB，每次购买最多20个。普通精灵球里有以下稀精灵分布：
 
-| Rarity    | Probability |
-| --------- | ----------- |
-| Common    | 63.75%      |
-| Rare      | 30.65%      |
-| Epic      | 3.75%       |
-| Legendary | 1.25%       |
-| Myth      | 0.6%        |
+| 稀有程度 |   概率   |
+| :--: | :----: |
+|  普通  | 63.75% |
+|  稀有  | 30.65% |
+|  史诗  |  3.75% |
+|  神话  |  1.25% |
+|  传说  |  0.6%  |

@@ -1,9 +1,9 @@
-# Market (Trailer)
+# 集市（预）
 
-The NFT market will open at launch, and the platform currency will be ELFT.
+集市将在启动时开放，平台代币将为 ELFT。
 
-NFT transactions will charge a 5% handling fee, the platform will change 2%, and the market reward will be 3%.
+NFT交易会收取5%的手续费，平台变动2%，市场奖励3%。
 
-#### More gameplay
+#### 更多玩法
 
-Elf will continue to introduce new and different aspects of gameplay, coming soon...
+小精灵将继续为游戏玩法引入新的不同方面，即将推出...

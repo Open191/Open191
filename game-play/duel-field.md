@@ -1,7 +1,7 @@
-# Duel Field (Trailer)
+# 决斗场（预）
 
-The duel field is where the elf compete. The battle system is based on the skill attributes of the elf to determine the winner and loser. The winner will be rewarded. We believe this is a key direction for the future development of the game.
+决斗场是小精灵对战的地方，对战系统是基于小精灵的技能属性的进行比拼决定胜负，获胜方会获得奖励。我们相信这是游戏未来发展的一个关键的方向。
 
-#### More gameplay
+#### 更多玩法
 
-Elf will continue to introduce new and different aspects of gameplay, coming soon...
+小精灵将继续为游戏玩法引入新的不同方面，即将推出...

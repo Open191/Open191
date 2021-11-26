@@ -1,13 +1,13 @@
-# Token Information
+# 代币信息
 
-ELFT serves as a community and game token, and has 3 functions in each transaction; reflection, burning, and team/foundation wallet. Rewards and income are also obtained in ELFT.
+ELFT是充当社区和游戏代币，在每笔交易中具有 3 个功能；反射、燃烧和团队/基金会钱包。奖励和收入也以 ELFT获得。
 
-#### Contract Address:0xxxxxxxxxxx
+代币合约地址：0xxxxxxxxxxx
 
 ```
-Name: Elf Token
-Symbol: ELFT
-Decimals: 18
-Network: Binance Smart Chain
-Total Supply: 1 000 000 000
+名称：精灵币    
+符号：ELFT
+小数：18
+网络：币安智能链
+总供应量：1 000 000 000
 ```
