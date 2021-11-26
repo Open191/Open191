@@ -1,17 +1,19 @@
-# 邀请系统
+# Invitation Systerm
 
-#### 精灵球
+#### Elfball
 
-邀请好友购买精灵球，1个精灵球可获得50 $ELF奖励。
+Invite friends to buy a elfball, and 1 elfball can get 50 ELFT rewards
 
-#### 训练馆
+#### Training Venue
 
-1级好友训练收入的5%奖励
+5% reward of training income of level 1 friends
 
-2级好友3%的训练收益奖励
+3% reward of training income for level 2 friends
 
-#### 集市
+#### NFT Market
 
-1 级好友获得营业额 2% 的$ELF奖励
+level1 friends get 2% ELFT reward of turnover
 
-2级好友获得营业额1%的$ELF奖励
+level2 friends get 1% ELFT reward of turnover
+
+More rewards look forward to updates

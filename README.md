@@ -1,7 +1,7 @@
-# 关于小精灵
+# About Elfworld
 
-小精灵是一款以《Pokémon》电影动画为主题改编的GameFi应用程序。
+Elf is a GameFi application adapted from the theme of 《Pokémon》 movie animation.
 
-小精灵是按照ERC-721标准铸造的NFT角色，可以在我们的市场上交易。允许游戏玩家使用精灵球来收集小精灵，并通过训练、决斗等策略进行赚取 $ELF代币。还有更多好玩的应用场景，即将开启。
+Elf are NFTs characters cast in according to **ERC-721 standard** and can be traded in our market.Game players are allowed to use elfball to collect elf, and **earn ELFT** through training, duel and other strategies. There are more interesting application scenarios, which will be opened soon.
 
-游戏运行在BSC（币安智能链）网络上，这将确保交易成本非常低。兼容MetaMask等web3钱包，用于接受交易和支付gas费用。MetaMask可以作为浏览器扩展安装，也可以作为移动设备上的应用程序安装......
+The game **runs on the BSC (Binance Smart Chain) network**, which will ensure that **transaction costs are very low**. Compatible with web3 wallets such as MetaMask, used to accept transactions and pay gas fees. MetaMask can be installed as a browser extension or as an application on a mobile device.

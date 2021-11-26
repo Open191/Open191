@@ -1,15 +1,15 @@
-# 培育屋（预）
+# Day Care (Trailer)
 
-培育屋是由培育屋夫妻经营的繁殖和孵蛋的商业场所。玩家可以寄存小精灵、精灵蛋，并需要支付$ELF代币。
+The breeding house is a commercial place for breeding and incubating eggs operated by Day-Care Couple. Players can deposit elf and elf eggs and need to pay ELFT.
 
-#### 繁殖
+#### Breeding
 
-两只符合繁殖规则的小精灵被寄存在培育屋中，就有可能获得精灵的蛋。如果培育屋中暂时未出现符合繁殖规则的小精灵，则暂时不能获得精灵蛋来，需要继续等待其他玩家寄存小精灵。
+If two elf that meet the breeding rules are deposited in the Day Care, it is possible to obtain elf eggs. If there are no elf that comply with the breeding rules in the Day Care, you will not be able to get the elf for the time being, and you need to continue to wait for other players to deposit the elf.
 
-#### 孵蛋
+#### Hatchin eggs
 
-精灵蛋需要寄存到培育屋才能孵化出小精灵，精灵蛋存放在培育屋外，蛋的成长就会暂停。蛋孵化的时间取决于这只小精灵的孵化周期，像稀有程度高或者强大的小精灵，孵化周期会特别长。
+The elf egg needs to be deposited in the Day Care to hatch the elf. When the elf egg is stored outside the Day Care, the growth of the egg will be suspended. The egg incubation time depends on the incubation cycle of this elf. Like a highly rare or powerful elf, the incubation cycle will be particularly long.
 
-#### 更多玩法
+#### More gameplay
 
-小精灵将继续为游戏玩法引入新的不同方面，即将推出...
+Elf will continue to introduce new and different aspects of gameplay, coming soon...
