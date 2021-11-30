@@ -1,30 +1,20 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [关于精灵世界](README.md)
+* [邀请系统](invitation-systerm.md)
 
-## Guides
+## 代币经济学 <a href="#token-economics" id="token-economics"></a>
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
-* [Page 1](guides/page-1.md)
+* [代币信息](token-economics/token-information.md)
+* [分配](token-economics/distribution.md)
+* [提取 ELFT](token-economics/withdraw-system.md)
 
-## Fundamentals
+## 游戏玩法 <a href="#game-play" id="game-play"></a>
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [精灵球](game-play/elfball.md)
+* [训练馆](game-play/training-venue.md)
+* [决斗场（预）](game-play/duel-field.md)
+* [集市（预）](game-play/market.md)
+* [进化（预）](game-play/evolution.md)
+* [繁殖（预）](game-play/breeding.md)
+* [培育屋（预）](game-play/day-care.md)
