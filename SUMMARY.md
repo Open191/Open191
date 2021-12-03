@@ -18,3 +18,10 @@
 * [进化（预）](game-play/evolution.md)
 * [繁殖（预）](game-play/breeding.md)
 * [培育屋（预）](game-play/day-care.md)
+
+## 精灵图鉴 <a href="#elfdex" id="elfdex"></a>
+
+* [特征信息](elfdex/te-zheng-xin-xi.md)
+* [属性](elfdex/type.md)
+* [常规能力](elfdex/permanent-stats.md)
+* [蛋群](elfdex/egg-group.md)
