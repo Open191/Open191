@@ -1,10 +1,10 @@
 # Table of contents
 
-* [语言](README.md)
+* [关于精灵世界](README.md)
+* [邀请系统](invitation-systerm.md)
+* [语言](<README (1).md>)
   * [English（Main）](https://docs.elfworld.games)
   * [简体中文](https://docs.elfworld.games/zh/)
-* [关于精灵世界](<README (1).md>)
-* [邀请系统](invitation-systerm.md)
 
 ## 代币经济学 <a href="#token-economics" id="token-economics"></a>
 
