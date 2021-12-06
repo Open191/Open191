@@ -2,7 +2,7 @@
 
 * [语言](README.md)
   * [English（Main）](https://docs.elfworld.games)
-  * [中文简体](https://docs.elfworld.games/zh/)
+  * [简体中文](https://docs.elfworld.games/zh/)
 * [关于精灵世界](<README (1).md>)
 * [邀请系统](invitation-systerm.md)
 
