@@ -28,3 +28,4 @@
 * [属性](elfdex/type.md)
 * [常规能力](elfdex/permanent-stats.md)
 * [蛋群](elfdex/egg-group.md)
+* [NFT角色](elfdex/nft-jiao-se.md)
