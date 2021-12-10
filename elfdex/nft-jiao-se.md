@@ -6,7 +6,7 @@ coverY: 0
 
 玩家可通过购买精灵球随机获得小精灵，目前共有15种创世小精灵，已涵盖了15类蛋群。未来随着游戏更新会繁殖出新品种的小精灵。
 
-#### 凤王 <a href="#ho-oh" id="ho-oh"></a>
+### 凤王
 
 ![](../.gitbook/assets/Ho-Oh.png)
 
@@ -42,7 +42,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 百变怪
+### 百变怪
 
 ![](../.gitbook/assets/百变怪.png)
 
@@ -78,7 +78,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 凯西
+### 凯西
 
 ![](../.gitbook/assets/Abra.png)
 
@@ -114,7 +114,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 鬼斯
+### 鬼斯
 
 ![](../.gitbook/assets/鬼斯.png)
 
@@ -150,7 +150,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 幼基拉斯
+### 幼基拉斯
 
 ![](../.gitbook/assets/Larvitar.png)
 
@@ -186,7 +186,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 卡拉卡拉
+### 卡拉卡拉
 
 ![](../.gitbook/assets/Cubone.png)
 
@@ -222,7 +222,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 妙蛙种子
+### 妙蛙种子
 
 ![](../.gitbook/assets/妙蛙种子.png)
 
@@ -258,7 +258,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 杰尼龟
+### 杰尼龟
 
 ![](../.gitbook/assets/杰尼龟.png)
 
@@ -294,7 +294,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 小火龙
+### 小火龙
 
 ![](../.gitbook/assets/小火龙.png)
 
@@ -330,7 +330,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 皮丘
+### 皮丘
 
 ![](../.gitbook/assets/pichu.png)
 
@@ -366,7 +366,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 蚊香蝌蚪
+### 蚊香蝌蚪
 
 ![](../.gitbook/assets/蚊香蝌蚪.png)
 
@@ -404,7 +404,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 角金鱼
+### 角金鱼
 
 ![](../.gitbook/assets/角金鱼.png)
 
@@ -440,7 +440,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 大舌贝 <a href="#da-she-bei" id="da-she-bei"></a>
+### 大舌贝 <a href="#da-she-bei" id="da-she-bei"></a>
 
 ​
 
@@ -480,7 +480,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 超音蝠 <a href="#da-she-bei" id="da-she-bei"></a>
+### 超音蝠 <a href="#da-she-bei" id="da-she-bei"></a>
 
 ![](../.gitbook/assets/超音蝠.png)
 
@@ -516,7 +516,7 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-#### 小磁怪 <a href="#da-she-bei" id="da-she-bei"></a>
+### 小磁怪 <a href="#da-she-bei" id="da-she-bei"></a>
 
 ![](../.gitbook/assets/小磁怪.png)
 
