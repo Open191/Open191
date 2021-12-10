@@ -23,11 +23,11 @@
 
 ## 精灵图鉴 <a href="#elfdex" id="elfdex"></a>
 
+* [NFT角色](elfdex/nft-jiao-se.md)
 * [特征信息](elfdex/te-zheng-xin-xi.md)
 * [属性](elfdex/type.md)
 * [常规能力](elfdex/permanent-stats.md)
 * [蛋群](elfdex/egg-group.md)
-* [NFT角色](elfdex/nft-jiao-se.md)
 
 ## 邀请系统 <a href="#invitation-systerm" id="invitation-systerm"></a>
 
