@@ -1,7 +1,6 @@
 # Table of contents
 
 * [关于精灵世界](README.md)
-* [邀请系统](invitation-systerm.md)
 * [语言](yu-yan/README.md)
   * [English（Main）](https://docs.elfworld.games)
   * [简体中文](https://docs.elfworld.games/zh/)
@@ -29,3 +28,7 @@
 * [常规能力](elfdex/permanent-stats.md)
 * [蛋群](elfdex/egg-group.md)
 * [NFT角色](elfdex/nft-jiao-se.md)
+
+## 邀请系统 <a href="#invitation-systerm" id="invitation-systerm"></a>
+
+* [邀请计划](invitation-systerm/invitation-program.md)
