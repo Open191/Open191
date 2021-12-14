@@ -8,6 +8,10 @@
 * [分配](token-economics/distribution.md)
 * [提取 ELFT](token-economics/withdraw-system.md)
 
+## 邀请系统 <a href="#invitation-systerm" id="invitation-systerm"></a>
+
+* [邀请计划](invitation-systerm/invitation-program.md)
+
 ## 游戏玩法 <a href="#game-play" id="game-play"></a>
 
 * [精灵球](game-play/elfball.md)
@@ -25,7 +29,3 @@
 * [属性](elfdex/type.md)
 * [常规能力](elfdex/permanent-stats.md)
 * [蛋群](elfdex/egg-group.md)
-
-## 邀请系统 <a href="#invitation-systerm" id="invitation-systerm"></a>
-
-* [邀请计划](invitation-systerm/invitation-program.md)
