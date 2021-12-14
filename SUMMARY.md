@@ -1,9 +1,6 @@
 # Table of contents
 
 * [关于精灵世界](README.md)
-* [语言](yu-yan/README.md)
-  * [English（Main）](https://docs.elfworld.games)
-  * [简体中文](https://docs.elfworld.games/zh/)
 
 ## 代币经济学 <a href="#token-economics" id="token-economics"></a>
 
