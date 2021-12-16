@@ -1,6 +1,9 @@
 # Table of contents
 
 * [关于精灵世界](README.md)
+* [语言](yu-yan/README.md)
+  * [English (Main)](https://docs.elfworld.games)
+  * [简体中文](https://docs.elfworld.games/zh/)
 
 ## 代币经济学 <a href="#token-economics" id="token-economics"></a>
 
@@ -24,7 +27,7 @@
 
 ## 精灵图鉴 <a href="#elfdex" id="elfdex"></a>
 
-* [NFT角色](elfdex/nft-jiao-se.md)
+* [NFT角色](elfdex/nft-characters.md)
 * [特征信息](elfdex/te-zheng-xin-xi.md)
 * [属性](elfdex/type.md)
 * [常规能力](elfdex/permanent-stats.md)
