@@ -31,3 +31,7 @@
 * [属性](elfdex/type.md)
 * [常规能力](elfdex/permanent-stats.md)
 * [蛋群](elfdex/egg-group.md)
+
+## 关于我们 <a href="#about-us" id="about-us"></a>
+
+* [团队](about-us/tuan-dui.md)
