@@ -9,7 +9,6 @@
 
 * [代币信息](token-economics/token-information.md)
 * [分配](token-economics/distribution.md)
-* [提取 ELFT](token-economics/withdraw-system.md)
 
 ## 邀请系统 <a href="#invitation-systerm" id="invitation-systerm"></a>
 
