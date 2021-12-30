@@ -24,6 +24,7 @@
 * [繁殖（预）](game-play/breeding.md)
 * [培育屋（预）](game-play/day-care.md)
 * [野外探险\(预\)](game-play/ye-wai-tan-966928-988429.md)
+* [土地买卖\(预\)](game-play/tu-di-mai-535628-988429.md)
 
 ## 精灵图鉴
 
