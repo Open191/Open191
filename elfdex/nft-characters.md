@@ -478,7 +478,7 @@ coverY: 0
 
 ### 超音蝠 <a href="#da-she-bei" id="da-she-bei"></a>
 
-![](../.gitbook/assets/超音蝠.png)
+![](broken-reference)
 
 在太阳落山后才开始活动。因为它的皮肤薄到只要被阳光照射到就会晒伤，所以白天会躲在阴暗处睡觉。天气变冷后，它们就会抱团取暖。
 
