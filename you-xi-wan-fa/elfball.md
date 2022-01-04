@@ -10,4 +10,15 @@
 
 ![](<../.gitbook/assets/Rarity (1).png>)
 
-稀有度级别一般为：UR > SSR > SR > R > N。
+**稀有度级别一般为：**UR> SSR> SR> R> N
+
+UR：Ultra Rare——极度稀有
+
+SSR：Superior Super Rare——超级稀有
+
+SR：Super Rare——超稀有
+
+R：Rare——稀有
+
+N：Normal——普通
+
