@@ -44,7 +44,7 @@ coverY: 0
 
 ### 百变怪
 
-![](../.gitbook/assets/百变怪.png)
+![](../.gitbook/assets/Ditto.png)
 
 它浑身都是稍淡的紫色。它拥有一双小小的黑眼睛，身体软而富有弹性。睡觉的时候变成石头防止被袭击。两只同时相遇，为了能变成和对方一模一样的样子而比平常更剧烈地动作。它可以通过改变自身的细胞组合并复制一切被复制对象的细胞组合而幻化为对方的样子，甚至可以使用对手的技能。
 
@@ -116,7 +116,7 @@ coverY: 0
 
 ### 鬼斯
 
-![](../.gitbook/assets/鬼斯.png)
+![](../.gitbook/assets/Gastly.png)
 
 它能够通过用有毒气体将其包围起来在两秒钟内使一头印度象倒下。 在有些偶然情况下，它会得到像人一样说话的能力并能够转变它自己的形态。它可以用心电感应来交流，还能够制造幻影、变身为少女或老婆婆，以及与死亡者的灵魂沟通。
 
@@ -224,7 +224,7 @@ coverY: 0
 
 ### 妙蛙种子
 
-![](../.gitbook/assets/妙蛙种子.png)
+![](../.gitbook/assets/Bulbasaur.png)
 
 它最显著的特点就是它背后那个鳞茎状的种子，种子与蛙之间存在着共生关系，从它出生起就种子和身体一同生长了。
 
@@ -260,7 +260,7 @@ coverY: 0
 
 ### 杰尼龟
 
-![](../.gitbook/assets/杰尼龟.png)
+![](../.gitbook/assets/Squirtle.png)
 
 它是天生的游泳健将，但由于体型太小，它只适合运送一些小型的物品。虽然它的下巴看起来很不起眼，但它可以学习咬咬。它的头很小，但可以使用火箭头槌。
 
@@ -296,7 +296,7 @@ coverY: 0
 
 ### 小火龙
 
-![](../.gitbook/assets/小火龙.png)
+![](../.gitbook/assets/Charmander.png)
 
 它尾巴上的火焰能够表现出它的情绪。当它开心时，火焰会摇曳。如果它被激怒，火焰就会猛烈地燃烧。生下来的时候，尾巴上就有火在燃烧。当尾巴上的火熄灭时，它的生命就结束了。
 
@@ -368,7 +368,7 @@ coverY: 0
 
 ### 蚊香蝌蚪
 
-![](../.gitbook/assets/蚊香蝌蚪.png)
+![](../.gitbook/assets/Poliwag.png)
 
 它有一条细长的尾巴，周围环绕着淡蓝色、半透明的鳍。它的尾巴使它成为一个强大的游泳者。尽管有危险，它喜欢在陆地上蹒跚而行。然而，如果它看到危险，它会很快回到水中。除非每天训练，否则它不能很好地在陆地上行走。
 
@@ -440,9 +440,7 @@ coverY: 0
 
 ### 大舌贝 <a href="#da-she-bei" id="da-she-bei"></a>
 
-​
-
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FZOvrcOq5HBL2pm0dI0Y3%2Fuploads%2FFd7pGewgfScg23gLRpSt%2F%E5%A4%A7%E8%88%8C%E8%B4%9D.png?alt=media\&token=545ebe92-8496-4aa6-a412-ff86a3a6a3dd)
+![](../.gitbook/assets/Shellder.png)
 
 硬壳能弹开任何攻击，打开壳的时候里面被攻击的话会很脆弱。到了夜里用大大的舌头在海底的沙子上挖洞睡在里面。虽然闭合贝壳睡觉，但舌头就那么伸在外面。
 
@@ -478,7 +476,7 @@ coverY: 0
 
 ### 超音蝠 <a href="#da-she-bei" id="da-she-bei"></a>
 
-![](broken-reference)
+![](../.gitbook/assets/Zubat.png)
 
 在太阳落山后才开始活动。因为它的皮肤薄到只要被阳光照射到就会晒伤，所以白天会躲在阴暗处睡觉。天气变冷后，它们就会抱团取暖。
 
@@ -514,7 +512,7 @@ coverY: 0
 
 ### 小磁怪 <a href="#da-she-bei" id="da-she-bei"></a>
 
-![](../.gitbook/assets/小磁怪.png)
+![](../.gitbook/assets/Magnemite.png)
 
 左右两边的部件释放出的电磁波屏蔽重力，从而悬浮在空中。左右两边的部件是强力的磁铁。能发出足以将半径100米以内的铁都吸引过来的强大磁力。
 
