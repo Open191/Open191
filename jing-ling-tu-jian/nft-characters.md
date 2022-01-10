@@ -404,7 +404,7 @@ coverY: 0
 
 ### 角金鱼
 
-![](../.gitbook/assets/角金鱼.png)
+![](../.gitbook/assets/Goldeen.png)
 
 独角的攻击很强烈。非常喜欢在河流或池塘中游动。但被放入水箱的话，就算是厚厚的玻璃也要用角撞破逃走。
 
