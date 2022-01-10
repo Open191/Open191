@@ -15,10 +15,10 @@
 
 * [精灵球](you-xi-wan-fa/elfball.md)
 * [训练馆](you-xi-wan-fa/training-venue.md)
+* [繁殖](you-xi-wan-fa/breeding.md)
 * [决斗场（预）](you-xi-wan-fa/duel-field.md)
 * [集市（预）](you-xi-wan-fa/market.md)
 * [进化（预）](you-xi-wan-fa/evolution.md)
-* [繁殖（预）](you-xi-wan-fa/breeding.md)
 * [培育屋（预）](you-xi-wan-fa/day-care.md)
 * [野外探险(预)](you-xi-wan-fa/ye-wai-tan-966928-988429.md)
 * [土地买卖(预)](you-xi-wan-fa/tu-di-mai-535628-988429.md)
