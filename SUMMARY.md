@@ -6,7 +6,6 @@
 
 * [代币信息](dai-bi-jing-ji-xue/token-information.md)
 * [分配](dai-bi-jing-ji-xue/distribution.md)
-* [提取 ELFT代币](dai-bi-jing-ji-xue/ti-qu-elft-dai-bi.md)
 
 ## 邀请系统
 
