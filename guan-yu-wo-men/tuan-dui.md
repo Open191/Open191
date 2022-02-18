@@ -1,3 +1,5 @@
 # 团队
 
 该项目团队具有区块链技术和游戏公司的背景，如盛大、网易和微软。我们在手机游戏和PC游戏以及区块链领域有很多成功的项目经验，如cex和BTC矿机、Filecoin等。并具有丰富的智能合同开发经验。
+
+[https://www.youtube.com/channel/UCjyDBSy\\\_OkTC\\\_q50tjpazPA/featured](https://www.youtube.com/channel/UCjyDBSy/\_OkTC/\_q50tjpazPA/featured)
